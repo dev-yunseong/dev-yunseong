@@ -1,9 +1,5 @@
 YunseongJeong
 =============
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jys0972)](https://solved.ac/jys0972)
-
 Contacts
 --------
 
