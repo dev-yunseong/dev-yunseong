@@ -2,6 +2,13 @@ YunseongJeong
 =============
 Contacts
 --------
+<div>
+  
+[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-green?style=flat-square&logo=tistory&logoColor=white)](https://yunseong.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.yunseong@gmail.com)
+
+</div>
+
 
 <!--
 **YunseongJeong/YunseongJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
