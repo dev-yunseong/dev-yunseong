@@ -1,13 +1,11 @@
 YunseongJeong
 =============
+## About me
+I'm a developer who cares about well-structured code and good software design. I'm especially interested in building solid architecture by combining theory and hands-on experience.
 
 ## Contacts
-<div>
-
-[![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-green?style=flat-square&logo=tistory&logoColor=white)](https://yunseong.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.yunseong@gmail.com)
-
-</div>
+- [Tistory](https://yunseong.tistory.com/)
+- [Gmail](mailto:dev.yunseong@gmail.com)
 
 ## Projects & Experiences
 ### Awake (2024.05 ~ 2024.12)
@@ -19,12 +17,12 @@ YunseongJeong
 ## Awards
 - 2024 공공 빅데이터 활용 경진대회 - 장려상 수상
 - 제11회 대한민국 SW 융합 해커톤 - 우수상 수상
-- 제5회 PNU 창의융합해커톤 - 최우수상 수상
-- 2024 부산디지털혁신아카데미해커톤 - 혁신상 수상
+- 제5회 PNU 창의 융합 해커톤 - 최우수상 수상
+- 2024 부산 디지털 혁신 아카데미 해커톤 - 혁신상 수상
 - 제4회 PNU Coding Challenge - 장려상 수상
 
 ## Education
-- 부산대학교 정보컴퓨터공학부 2021.03 ~
-- 카카오테크캠퍼스 3기 2025.04.08 ~
+- 부산대학교 정보컴퓨터공학부 (2021.03 ~ )
+- 카카오테크캠퍼스 3기 (2025.04 ~ )
 
 ## Certificates
