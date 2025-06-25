@@ -8,11 +8,19 @@ I'm a developer who cares about well-structured code and good software design. I
 - [Gmail](mailto:dev.yunseong@gmail.com)
 
 ## Projects & Experiences
-### Awake (2024.05 ~ 2024.12)
-### [경단](https://github.com/Gyeongdan) (2024.06 ~ 2024.07)
-### [Drug Master](https://github.com/orgs/drug-prometheus) (2024.09 ~ 2024.11)
-### [두도지](https://github.com/team-dudoji) (2025.01 ~ )
 ### [워드 온라인](https://github.com/Apptive-Game-Team/WordOnlineServer) (2025.04 ~ )
+- 실시간 멀티플레이 카드 게임 서버를 Spring Boot로 개발
+### [두도지](https://github.com/team-dudoji) (2025.01 ~ )
+- 도보 여행에 게임 요소를 접목한 안드로이드 앱 개발
+### [Drug Master](https://github.com/orgs/drug-prometheus) (2024.09 ~ 2024.11)
+- React로 약물 정보 제공 및 복약 관리 프론트엔드 구현
+- Dev-ton 해커톤에서 혁신상 수상, UI/UX 경험 확대
+### [경단](https://github.com/Gyeongdan) (2024.06 ~ 2024.07)
+- FastAPI로 백엔드 구현, 협업 필터링 기반 추천 시스템과 메일 발송 기능 개발
+- SW 중심대학 디지털 경진대회 본선 진출 성과 달성
+### Awake (2024.05 ~ 2024.12)
+- 졸음 운전 방지용 LLM 챗봇 및 Flutter 앱 개발
+- 3개 해커톤에서 수상, Android 기술과 LLM, 음성 기반 인터페이스 경험
 
 ## Awards
 - 2024 공공 빅데이터 활용 경진대회 - 장려상 수상
