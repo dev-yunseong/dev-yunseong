@@ -8,7 +8,7 @@ I'm a developer who cares about well-structured code and good software design. I
 - [Gmail](mailto:dev.yunseong@gmail.com)
 
 ## Projects & Experiences
-### [워드 온라인](https://github.com/Apptive-Game-Team/WordOnlineServer) (2025.04 ~ )
+### [워드 온라인](https://apptive-game-team.github.io/WordOnline_Play/) (2025.04 ~ )
 - 실시간 멀티플레이 카드 게임 서버를 Spring Boot로 개발
 ### [두도지](https://github.com/team-dudoji) (2025.01 ~ )
 - 도보 여행에 게임 요소를 접목한 안드로이드 앱 개발
