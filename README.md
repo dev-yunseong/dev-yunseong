@@ -34,3 +34,5 @@ I'm a developer who cares about well-structured code and good software design. I
 - 카카오테크캠퍼스 3기 (2025.04 ~ )
 
 ## Certificates
+
+![Yunseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yunseong&show_icons=true&theme=dracula)
