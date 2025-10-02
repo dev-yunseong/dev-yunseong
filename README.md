@@ -24,7 +24,7 @@ I'm a developer who cares about well-structured code and good software design. I
 - 3개 해커톤에서 수상, Android 기술과 LLM, 음성 기반 인터페이스 경험
 
 ## Awards
-- TechWeek
+- 2025 CSE TECHWEEK 바이브코딩을 활용한 해커톤 대회 - 2등 수상
 - 제4회 PNU Coding Challenge - 장려상 수상
 - 2024 부산 디지털 혁신 아카데미 해커톤 - 혁신상 수상
 - 제5회 PNU 창의 융합 해커톤 - 최우수상 수상
