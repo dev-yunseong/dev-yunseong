@@ -17,8 +17,6 @@ I'm a developer who cares about well-structured code and good software design. I
 - Spring Boot 서버와 Unity WebGL 클라이언트로 구현한 실시간 멀티플레이 카드 게임
 - CI/CD 자동화, 애자일 협업, 데이터-로직 분리로 효율적 개발 환경 구축
 - 서버용 게임 엔진 구조를 직접 설계·구현하여 물리, 입력, 동기화, WebSocket 통신을 안정적으로 처리
-### [워드 온라인](https://yunseong.shop/public/memos/34) (2025.04 ~ )
-- 실시간 멀티플레이 카드 게임 서버를 Spring Boot로 개발
 ### [두도지](https://yunseong.shop/public/memos/35) (2025.01 ~ )
 - 도보 여행에 게임 요소를 접목한 안드로이드 앱 개발
 ### [Drug Master](https://github.com/orgs/drug-prometheus) (2024.09 ~ 2024.11)
