@@ -11,8 +11,12 @@ I'm a developer who cares about well-structured code and good software design. I
 ## Projects & Experiences
 ### [P-ting](https://yunseong.shop/public/memos/46) (2025.08 ~ )
 - 교내 스포츠 매칭 플랫폼을 구현
-- 회원 관리, 퀵 매칭, MMR 기반 랭크, 경기 후 평가, 기록 기능 제공  
+- 회원 관리, 퀵 매칭, MMR 기반 랭크, 경기 후 평가, 기록 기능 구현
 - ADR과 테스트 코드로 의사결정과 품질을 체계적으로 관리
+### [워드 온라인](https://yunseong.shop/public/memos/34) (2025.04 ~ )
+- Spring Boot 서버와 Unity WebGL 클라이언트로 구현한 실시간 멀티플레이 카드 게임
+- CI/CD 자동화, 애자일 협업, 데이터-로직 분리로 효율적 개발 환경 구축
+- 서버용 게임 엔진 구조를 직접 설계·구현하여 물리, 입력, 동기화, WebSocket 통신을 안정적으로 처리
 ### [워드 온라인](https://yunseong.shop/public/memos/34) (2025.04 ~ )
 - 실시간 멀티플레이 카드 게임 서버를 Spring Boot로 개발
 ### [두도지](https://yunseong.shop/public/memos/35) (2025.01 ~ )
