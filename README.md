@@ -9,6 +9,10 @@ I'm a developer who cares about well-structured code and good software design. I
 - [Blog](https://yunseong.shop/)
 
 ## Projects & Experiences
+### [P-ting](https://yunseong.shop/public/memos/46) (2025.08 ~ )
+- 교내 스포츠 매칭 플랫폼을 구현
+- 회원 관리, 퀵 매칭, MMR 기반 랭크, 경기 후 평가, 기록 기능 제공  
+- ADR과 테스트 코드로 의사결정과 품질을 체계적으로 관리
 ### [워드 온라인](https://yunseong.shop/public/memos/34) (2025.04 ~ )
 - 실시간 멀티플레이 카드 게임 서버를 Spring Boot로 개발
 ### [두도지](https://yunseong.shop/public/memos/35) (2025.01 ~ )
