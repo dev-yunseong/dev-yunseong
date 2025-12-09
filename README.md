@@ -4,9 +4,9 @@ YunseongJeong
 I'm a developer who cares about well-structured code and good software design. I'm especially interested in building solid architecture by combining theory and hands-on experience.
 
 ## Contacts
+- [Blog](https://yunseong.dev/)
 - [Tistory](https://yunseong.tistory.com/)
 - [Gmail](mailto:dev.yunseong@gmail.com)
-- [Blog](https://yunseong.shop/)
 
 ## Projects & Experiences
 ### [P-ting](https://yunseong.shop/public/memos/46) (2025.08 ~ 2025.11)
