@@ -12,7 +12,7 @@ I'm a developer who cares about well-structured code and good software design. I
 - 도시 보행로를 그래프 구조로 모델링하고 길의 방향을 최적화하여 이동 충돌 최소화
 - Quantum Annealing 기반 조합 최적화 문제로 경로 방향 결정
 - [Small-world network](https://yunseong.dev/public/memos/142) 구조를 활용한 효율적인 도시 이동 흐름 설계
-### [Maechuri](https://yunseong.dev/public/memos/70) (2025.12 ~ )
+### [Maechuri](https://yunseong.dev/public/memos/70) (2025.12 ~ 2026.03)
 - LLM·RAG 기반으로 AI 용의자와 자유롭게 대화하며 사건을 추리하는 웹 게임 개발
 - Agent와 RAG 기반 파이프라인으로 매일 새로운 사건 시나리오 자동 생성
 - IP·Fingerprint·Cookie 기반 클라이언트 식별로 LLM API 비용 및 어뷰징 방지 Rate Limiting 구현 [라이브러리](https://github.com/dev-yunseong/api-limit-webflux/packages/2810922)
