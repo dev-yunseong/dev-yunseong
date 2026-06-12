@@ -47,4 +47,5 @@ I'm a developer who cares about well-structured code and good software design. I
 - 카카오테크캠퍼스 3기 (2025.04 ~ 2025.11)
 
 ## Certificates
+- 정보처리기사 (2026.06.12)
 - SQLD (2026.03.27)
