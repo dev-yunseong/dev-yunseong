@@ -4,7 +4,7 @@ Yunseong Jeong
 I'm a developer who cares about well-structured code and good software design. I'm especially interested in building solid architecture by combining theory and hands-on experience.
 
 ## Contacts
-[Tistory](https://blog.yunseong.dev/) | [Github](https://github.com/dev-yunseong) | [Email](mailto:me@yunseong.dev)
+[Github](https://github.com/dev-yunseong) | [Email](mailto:me@yunseong.dev) | [LinkedIn](https://www.linkedin.com/in/yunseong-jeong-062a36357)
 
 ## Projects & Experiences
 ### [Metropolitan Ring Road System](https://yunseong.dev/public/memos/134) (2026.02)
@@ -46,6 +46,7 @@ I'm a developer who cares about well-structured code and good software design. I
 - 부산대학교 정보컴퓨터공학부 (2021.03 ~ )
 - 카카오테크캠퍼스 3기 (2025.04 ~ 2025.11)
 
-## Certificates
+## Certificates & Assessments
+- TOPCIT 717점 (Level 4, 2026.06.15)
 - 정보처리기사 (2026.06.12)
 - SQLD (2026.03.27)
