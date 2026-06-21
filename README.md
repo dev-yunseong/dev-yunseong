@@ -4,7 +4,7 @@ Yunseong Jeong
 I'm a developer who cares about well-structured code and good software design. I'm especially interested in building solid architecture by combining theory and hands-on experience.
 
 ## Contacts
-[Github](https://github.com/dev-yunseong) | [Email](mailto:me@yunseong.dev) | [LinkedIn](https://www.linkedin.com/in/yunseong-jeong-062a36357)
+[Website](https://yunseong.dev) | [Email](mailto:me@yunseong.dev) | [LinkedIn](https://www.linkedin.com/in/yunseong-jeong-062a36357)
 
 ## Projects & Experiences
 ### [Metropolitan Ring Road System](https://yunseong.dev/public/memos/134) (2026.02)
